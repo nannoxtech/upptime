@@ -4,9 +4,9 @@
     "url": "https://jugamax.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/jugamax.com.py.ico",
     "slug": "jugamax",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 697,
     "timeMonth": 724,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-21": 0
+    }
   },
   {
     "name": "Backoffice",
