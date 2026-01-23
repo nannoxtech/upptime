@@ -6,15 +6,15 @@
     "slug": "jugamax",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 693,
-    "timeDay": 756,
-    "timeWeek": 714,
-    "timeMonth": 729,
-    "timeYear": 693,
+    "time": 692,
+    "timeDay": 657,
+    "timeWeek": 672,
+    "timeMonth": 722,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2026-01-21": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 351,
-    "timeWeek": 464,
-    "timeMonth": 469,
-    "timeYear": 445,
+    "time": 442,
+    "timeDay": 283,
+    "timeWeek": 406,
+    "timeMonth": 460,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   }
 ]
